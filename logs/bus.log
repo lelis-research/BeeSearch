@@ -1,0 +1,24 @@
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((1 + _arg_1.IndexOf("_")),"".StrToInt())
+[Task: 56] Number of evaluations: 296149
+[Task: 56] 2023-02-25 21:52:28.129854
+[Task: 56] Time taken: 0:00:01.569810
+[Task: 56] 
+
+
+[Task: 56] 
+
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((1 + _arg_1.IndexOf("_")),"".StrToInt())
+[Task: 56] Number of evaluations: 296149
+[Task: 56] 2023-04-05 14:55:42.930812
+[Task: 56] Time taken: 0:00:01.576897
+[Task: 56] 
+
+

@@ -1,0 +1,229 @@
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-13 15:44:44.304960
+[Task: 56] Time taken: 0:00:02.525268
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-25 21:19:38.567672
+[Task: 56] Time taken: 0:00:02.228032
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-25 21:25:57.553607
+[Task: 56] Time taken: 0:00:02.659382
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-25 21:28:25.955359
+[Task: 56] Time taken: 0:00:02.669434
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20645
+[Task: 56] 2023-02-25 21:40:06.611562
+[Task: 56] Time taken: 0:00:11.193776
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20709
+[Task: 56] 2023-02-25 21:41:09.479362
+[Task: 56] Time taken: 0:00:06.211888
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-25 21:41:49.645677
+[Task: 56] Time taken: 0:00:02.619075
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),"9999999".StrToInt())
+[Task: 56] Number of evaluations: 39834159
+[Task: 56] 2023-02-25 21:57:12.983231
+[Task: 56] Time taken: 0:02:06.636171
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-25 22:35:26.251887
+[Task: 56] Time taken: 0:00:02.557464
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-25 22:38:43.592102
+[Task: 56] Time taken: 0:00:02.637609
+[Task: 56] 
+
+
+[Task: 55] Creating converter from 3 to 5
+[Task: 55] 
+
+[Task: 55] Benchmark: dr-name_small.sl
+[Task: 55] Result: Success
+[Task: 55] Program: concat(concat("Dr.", " "), name.Substr(0,name.IndexOf(" ")))
+[Task: 55] Number of evaluations: 958226
+[Task: 55] 2023-02-25 22:39:32.345630
+[Task: 55] Time taken: 0:00:41.679026
+[Task: 55] 
+
+
+[Task: 55] Creating converter from 3 to 5
+[Task: 55] 
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-26 11:12:47.217666
+[Task: 56] Time taken: 0:00:02.609923
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-26 13:21:53.823602
+[Task: 56] Time taken: 0:00:02.697045
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-26 13:22:25.596528
+[Task: 56] Time taken: 0:00:02.710877
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-26 13:25:46.832955
+[Task: 56] Time taken: 0:00:02.690952
+[Task: 56] Number of calls to heapify: 0
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-26 17:42:30.076052
+[Task: 56] Time taken: 0:00:02.733673
+[Task: 56] Number of calls to heapify: 0
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-02-26 18:36:52.399642
+[Task: 56] Time taken: 0:00:02.683167
+[Task: 56] Number of calls to heapify: 0
+[Task: 56] 
+
+
+[Task: 56] Creating converter from 3 to 5
+[Task: 56] 
+
+[Task: 56] Benchmark: exceljet1.sl
+[Task: 56] Result: Success
+[Task: 56] Program: _arg_1.Substr((_arg_1.IndexOf("_") + 1),_arg_1.Length())
+[Task: 56] Number of evaluations: 20705
+[Task: 56] 2023-04-05 14:56:16.251907
+[Task: 56] Time taken: 0:00:02.815975
+[Task: 56] Number of calls to heapify: 0
+[Task: 56] 
+
+
