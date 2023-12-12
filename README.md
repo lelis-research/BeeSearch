@@ -50,7 +50,7 @@ The parameter `bound` specifies the number of different costs of programs Bee Se
 
 The other input parameters specify the language that should be used in search (i.e., which symbols the search will consider while attempting to find a solution to a problem). The method `search` return a solution program (it can return `None` if it doesn’t find one), the number of programs evaluated in search, and the number of times function `heapify_pqs` was called.
 
-The starter code also contains an implementation for the list of programs we will keep in memory, see class `ProgramList`. This class stores all programs encountered in search and allows for an efficient evaluation of the programs with the neural network (it accumulates all programs generated with a given cost and evaluates all programs in a single batch with the neural model). `ProgramList` has a method called init plist that needs to be called before starting the search. This method initializes the list of programs with the smallest programs possible. This method also initializes the search in the cost-tuple space. It is invoked using `init_plist` in the implementation of `search` procedure.
+The starter code also contains an implementation for the list of programs we will keep in memory, see class `ProgramList`. This class stores all programs encountered in search and allows for an efficient evaluation of the programs with the neural network (it accumulates all programs generated with a given cost and evaluates all programs in a single batch with the neural model). `ProgramList` has a method called `init_plist` that needs to be called before starting the search. This method initializes the list of programs with the smallest programs possible. This method also initializes the search in the cost-tuple space. It is invoked using `init_plist` in the implementation of `search` procedure.
 
 In the starter code, `ProgramList` stores one priority queue for each arity of operator in the language. For example, if the language is of the form S → replace(S,S,S) | concat(S,S), then `ProgramList` stores two priority queues, one for cost tuples with arity 3 (for the “replace” operator) and one for cost tuples with arity 2 (for the “concat” operator). Bee Search can also use a single priority queue for all arities; either strategy for implementing the algorithm is fine.
 
@@ -89,3 +89,18 @@ Contains pre-trained models
 It contains the benchmark and properties configuration
 
 
+## Reference
+
+```bibtex
+@article{Ameen_2023,
+   title={Program Synthesis with Best-First Bottom-Up Search},
+   volume={77},
+   ISSN={1076-9757},
+   url={http://dx.doi.org/10.1613/jair.1.14394},
+   DOI={10.1613/jair.1.14394},
+   journal={Journal of Artificial Intelligence Research},
+   publisher={AI Access Foundation},
+   author={Ameen, Saqib and Lelis, Levi H.S.},
+   year={2023},
+   month=aug, pages={1275–1310} }
+```
